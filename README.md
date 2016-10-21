@@ -1,8 +1,7 @@
-# eggshell
+# eggshell [![Build Status](https://travis-ci.org/hoosin/MEggshell.svg?branch=master)](https://travis-ci.org/hoosin/MEggshell)
+
 
   Lightweight debugger in mobile
-
-  [![Build Status](https://travis-ci.org/hoosin/MEggshell.svg?branch=master)](https://travis-ci.org/hoosin/MEggshell)
 
 
 ## Installation
