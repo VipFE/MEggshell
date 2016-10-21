@@ -2,7 +2,7 @@
 
   Lightweight debugger in mobile
 
-  [![NPM Version][npm-image]][npm-url]
+  [![Build Status](https://travis-ci.org/hoosin/MEggshell.svg?branch=master)](https://travis-ci.org/hoosin/MEggshell)
 
 
 ## Installation
