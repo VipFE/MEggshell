@@ -3,13 +3,6 @@
   Lightweight debugger in mobile
 
   [![NPM Version][npm-image]][npm-url]
-  [![NPM Downloads][downloads-image]][npm-url]
-  [![Travis Build][travis-image]][travis-url]
-  [![Coverage Status][coveralls-image]][coveralls-url]
-
-  [![Dependency Status][david-image]][david-url]
-  [![devDependency Status][david-dev-image]][david-dev-url]
-  [![peerDependency Status][david-peer-image]][david-peer-url]
 
 
 ## Installation
@@ -22,7 +15,7 @@
 
 ### four finger debug
 
-```
+```js
 // Default four finger,Close default four finger
 XLDebug.finger.close();
 
@@ -32,7 +25,7 @@ XLDebug.finger.open();
 
 ### eggshell log
 
-```
+```js
 // Two fingers at the same time, click on the screen, 10 times will pop-up prompts
 XLDebug.log.openSysConsole();
 
