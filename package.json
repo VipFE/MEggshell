@@ -4,7 +4,9 @@
   "description": "Lightweight debugger in mobile",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "check": "fecs check src/ test/",
+    "test": "mocha test/test.js",
+    "rm": "rm -rf tmep/"
   },
   "repository": {
     "type": "git",
@@ -18,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/hoosin/MEggshell/issues"
   },
-  "homepage": "https://github.com/hoosin/MEggshell#readme"
+  "homepage": "https://github.com/hoosin/MEggshell#readme",
+  "dependencies": {
+    "mocha": "^3.1.2"
+  }
 }
