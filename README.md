@@ -1,4 +1,4 @@
-# eggshell [![Build Status](https://travis-ci.org/hoosin/MEggshell.svg?branch=master)](https://travis-ci.org/hoosin/MEggshell)
+# eggshell [![Build Status](https://travis-ci.org/hoosin/MEggshell.svg?branch=master)](https://travis-ci.org/hoosin/MEggshell)[![GitHub Rank](https://reporank.com/hoosin/MEggshell)](https://reporank.com?u=hoosin&r=MEggshell)
 
 
   Lightweight debugger in mobile
