@@ -1,12 +1,13 @@
 {
   "name": "meggshell",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Lightweight debugger in mobile",
   "main": "index.js",
   "scripts": {
     "check": "fecs check src/ test/",
     "test": "mocha test/test.js",
-    "rm": "rm -rf tmep/"
+    "rm": "rm -rf tmep/",
+    "push":"npm publish"
   },
   "repository": {
     "type": "git",
